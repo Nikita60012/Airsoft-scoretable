@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Страйкбольное табло</string>
+    <string name="Drop">Сброс</string>
+    <string name="firstgroup">Guard 9</string>
+    <string name="secondgroup">ЧЕБУРАТОР</string>
+    <string name="firstflag">TODO</string>
+    <string name="secondflag">TODO2</string>
+    <string name="leftcounter">0</string>
+    <string name="middletext">:</string>
+    <string name="rightcounter">0</string>
+</resources>
